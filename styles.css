@@ -14,4 +14,9 @@ header {
     background-color: #333; 
     color: red;
     min-height: 30vh;
-} 
+}  
+
+.list ul li { 
+    background: darkblue; 
+    color: white;
+}
